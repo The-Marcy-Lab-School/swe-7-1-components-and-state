@@ -15,6 +15,8 @@
 
 In this assignment, you will build an interactive greeting app that lets users translate a greeting into different languages, adjust the font size, toggle a dark/light theme, and track a history of their language selections.
 
+![Application demo.](./demo.gif)
+
 You will divide your UI into multiple components, each managing or receiving state, and will practice lifting state up to parent components and passing handlers down as props.
 
 In this project, you will practice:
